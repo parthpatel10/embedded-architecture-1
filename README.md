@@ -1,1 +1,1 @@
-# embedded-architecture-1
+# embedded-system-architecture-1
